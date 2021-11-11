@@ -1,0 +1,1 @@
+# Arrays yapısı burada mevcuttur.
